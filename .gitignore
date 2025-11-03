@@ -1,8 +1,7 @@
 # Created by venv; see https://docs.python.org/3/library/venv.html
 # Ignore all possible virtual environments
-venv/
-.env/
-.venv/
-env/
-ENV/
-
+__pycache__
+bin/
+include/
+lib/
+lib64/
