@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 from bluezero import adapter, peripheral
 from uart_device import UARTDevice
 
